@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-practice",
+  "version": "1.0.0",
+  "description": "frond end practice",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roboszyn/FrontEnd.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roboszyn/FrontEnd/issues"
+  },
+  "homepage": "https://github.com/roboszyn/FrontEnd#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
